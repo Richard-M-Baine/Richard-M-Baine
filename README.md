@@ -1,4 +1,4 @@
-## about me
+## Guten Tag!
 
 - 👋 Hi, I’m Richard but everyone calls me by my middle name Matt.  I have about 10 years experience in Social Services and the nursing profession.  I also served a 6 year stint in the army.  While walking to my car one day I ended up slipping on some ice and broke my ankles.  I taught myself Python, HTML, and CSS during this time because . . .  I was literally stuck in front of a computer and could not move!  Taking an interest in the subject I graduated from App Academy and found a valuable tool to continue my passion in life.    
 - 👀 My passion is helping people. Technology is a tool that can be used for mass government surveillence, however, it also can be used to help deliver food for homeless families.  Like the internal combustion engine or nuclear power its a tool that can be utilized to improve or harm our society.  To divide or help bring people together.  I wish that the code that I write try to be with the intention of helping other people.  Anything from assisting to a nonprofit to simply being a game to provide entertainment.                 
