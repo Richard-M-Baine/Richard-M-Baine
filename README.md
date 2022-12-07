@@ -48,13 +48,12 @@ GoDaddy (could not find icon :( )
 
 
 
-- 💞️ I am particularly interested in helping people who are combatting injustices of any kind. The United States has the highest incarceration rate in the world.  We are also steadily freeing indivdiauls from DEATH ROW who were exonerated.  A nation that claims to be the land of freedom.  Anything from high statkes issues like this to a family being thrown onto the street by a landlord.  Technology can be used to help both legal aid orgs and public defenders offices nationwide.      
+- 💞️ I am particularly interested in helping people who are combatting injustices of any kind. The United States has the highest incarceration rate in the world.  We are also steadily freeing indivdiauls from DEATH ROW who were exonerated.  A nation that claims to be the land of freedom.  Anything from high stakes issues like this to a family being thrown onto the street by a greedy landlord.  Technology can be used to help both legal aid orgs and public defenders offices nationwide. To make this world a more fair place to live in.     
 - 📫 How to reach me simply email at richardbaine@gmail.com  Feel free to use my "business" email at efdeliveryservice@gmail.com if you feel like being different. I wear many hats and owning a small trucking company is one of them.
 
 - 🔭 I’m currently working on making a somewhat professional readme for github for social networking purposes.  No person is an island.
 - 🌱 I’m currently figuring out how to use Selenium for some helpful purpose.
 - 👯 I’m looking to collaborate on anything that can be used to help another person.  I am always willing to help any non-profit that needs assistance. 
-- 🤔 I’m looking for help with networking and mentorship.  Isaac Newton stated that he only saw further than other people because he was standing on the shoulders of giants.  I wish to help others but in order to do that I need help in turn.    
-
+- 🤔 I’m looking for help with networking and mentorship.  Isaac Newton stated that he only saw further than other people because he was standing on the shoulders of giants.  I wish to find a giant that is willing to let me stand on him / her . . .
 
 
