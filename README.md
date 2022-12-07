@@ -42,6 +42,8 @@ GoDaddy (could not find icon :( )
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 
 
 
@@ -49,7 +51,7 @@ GoDaddy (could not find icon :( )
 - 📫 How to reach me simply email at richardbaine@gmail.com  Feel free to use my "business" email at efdeliveryservice@gmail.com if you feel like being different. I wear many hats and owning a small trucking company is one of them.
 
 - 🔭 I’m currently working on making a somewhat professional readme for github for social networking purposes.  No person is an island.
-- 🌱 I’m currently learning Angular and Selenium.
+- 🌱 I’m currently figuring out how to use Selenium for some helpful purpose.
 - 👯 I’m looking to collaborate on anything that can be used to help another person.  I am always willing to help any non-profit that needs assistance. 
 - 🤔 I’m looking for help with networking and mentorship.  Isaac Newton stated that he only saw further than other people because he was standing on the shoulders of giants.  I wish to help others but in order to do that I need help in turn.    
 
