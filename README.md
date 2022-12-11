@@ -27,7 +27,7 @@
 ## hosting experience with
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-GoDaddy (could not find icon :( )
+![GoDaddy](#1BDBDB)
 
 
 ### languages
